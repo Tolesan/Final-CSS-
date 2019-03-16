@@ -23,7 +23,7 @@
 
 
     <footer>
-      <h1>Encuéntrame en las principales redes sociales y medios de comunicación: </h1>
+      <h1>Nosotros en redes sociales: </h1>
       <div>
         <a href="http://facebook.com"><img src="./Iconos/facebook.svg" alt="Facebook"></a>
         <a href="http://twitter.com"><img src="./Iconos/twitter.svg" alt="Twitter"></a>
@@ -32,11 +32,11 @@
       </div>
       <div>
         <img src="./Iconos/skype.svg" alt="Skype" width="100" height="100">
-        <p> - JuanLedesma</p>
+        <p> - Natael Tolesano</p>
       </div>
       <div>
         <img src="./Iconos/whatsapp.svg" alt="Wapp" width="100" height="100">
-        <p>300-300-30-30</p>
+        <p>35410450473</p>
       </div>
     </footer>
   </body>
